@@ -1,11 +1,11 @@
 # iOS-Privacy-Guide
 
-**There are some changes within the latest version of iOS (15) released in September of 2021. Any time a new major version is 
+There are some changes within the latest version of iOS (15) released in September of 2021. Any time a new major version is 
 released, I currently recommend the iPhone SE (2nd Generation) if you are considering the purchase of a new Apple device.
- It is the most recent version which offers fingerprint support (instead of Face ID), and is quite affordable. 
- The following guide walks you through my considerations when configuring iOS 15, including scenarios for any user. 
- Please read and understand the entire guide before you take any action. First, choose the appropriate option for you 
- (three options).**
+It is the most recent version which offers fingerprint support (instead of Face ID), and is quite affordable. 
+The following guide walks you through my considerations when configuring iOS 15, including scenarios for any user. 
+Please read and understand the entire guide before you take any action. First, choose the appropriate option for you 
+(three options).
 
 ### Option I: An updated device with same Apple ID
 
@@ -60,6 +60,7 @@ Apple will know that the same device was used by the two accounts, but data coll
     Select desired appearance and zoom
     Click "Get Started" to exit the menu
     Continue to Section IV
+    
 ### Option III: A brand new device
 
 If you purchased a new device, this is a great opportunity to establish a new Apple ID and prepaid cellular account in order 
@@ -200,7 +201,7 @@ Users who began at Option I can skip this section.
 After you have successfully signed into the App Store, but not iCloud, open the Find My app and confirm that it prompts you 
 to sign in to an account (but don't sign in). This indicates that the basic abilities to track your device are disabled.
 
-### Firefox Focus: This is my preferred default browser, and I take the following actions:
+Firefox Focus: This is my preferred default browser, and I take the following actions:**
 
     Settings>Firefox Focus>Default Browser App: Firefox Focus
     Firefox Focus>Settings>Safari: Enable
@@ -208,19 +209,19 @@ to sign in to an account (but don't sign in). This indicates that the basic abil
     Firefox Focus>Settings>Search Engine: DuckDuckGo
     Firefox Focus>Settings>Get Search Suggestions: Disable
 
-### Signal: Signal needs some settings activated and deactivated. I take the following actions:
+Signal: Signal needs some settings activated and deactivated. I take the following actions:
 
     Signal>Settings>Privacy>Default Timer: Set as desired
     Signal>Settings>Privacy>Hide Screen in App Switcher: Enable
     Signal>Settings>Privacy>Show Calls in Recents: Disable
 
-### Protonmail: Regardless of your primary settings, the Protonmail iPhone app will add a footer at the end of every email announcing your usage on a mobile iOS device and set your default browser to Safari. I take the following actions:
+Protonmail: Regardless of your primary settings, the Protonmail iPhone app will add a footer at the end of every email announcing your usage on a mobile iOS device and set your default browser to Safari. I take the following actions:
 
     Protonmail>Settings>Account>Mobile Signature>Disable
     Protonmail>Settings>Default Browser: Firefox Focus
 
-### ProtonVPN: if you plan to use both ProtonVPN (or any other VPN) and a firewall simultaneously, you must change the protocol of your VPN. Go to your settings and disable Smart Protocol. This allows you to change your VPN protocol to IKEv2 which will eliminate conflicts with most firewalls.
+ProtonVPN: if you plan to use both ProtonVPN (or any other VPN) and a firewall simultaneously, you must change the protocol of your VPN. Go to your settings and disable Smart Protocol. This allows you to change your VPN protocol to IKEv2 which will eliminate conflicts with most firewalls.
 
-### Strongbox (https://strongboxsafe.com): This application opens KeePassXC databases. The biometric option to open databases is available with the paid version.
+Strongbox (https://strongboxsafe.com): This application opens KeePassXC databases. The biometric option to open databases is available with the paid version.
 
     Thank You.
